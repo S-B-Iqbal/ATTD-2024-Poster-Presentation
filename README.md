@@ -14,4 +14,5 @@
 
 ## Dataset
 
-[TEDDY-Study](https://repository.niddk.nih.gov/studies/teddy/?query=type%201%20diabetes)
+- [TEDDY-Study](https://repository.niddk.nih.gov/studies/teddy/?query=type%201%20diabetes)
+- Data-dictionary is available under "Study Documents"
