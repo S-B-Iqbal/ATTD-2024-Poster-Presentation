@@ -10,3 +10,7 @@
 **Results**: The results demonstrate the effectiveness of the proposed technique and engineered features in differentiating high- and low-risk populations. For the respective models: C-ipcv: RF = 0.98, DT = 0.97, CPH = 0.97, and AUC(t): RF = 0.995, DT = 0.992, CPH = 0.991.
 
 **Conclusion**: We propose a novel feature-driven technique to identify high-risk populations for T1D clinical diagnosis. The presented models can be used for T1D screening and early detection.
+
+## Dataset
+
+[TEDDY-Study](https://repository.niddk.nih.gov/studies/teddy/?query=type%201%20diabetes)
