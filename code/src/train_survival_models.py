@@ -1,4 +1,10 @@
 """
+##################################################
+## Script for training models. For generating results of Table-2
+##################################################
+# Author: Shahrukh Iqbal
+# Email: iqbal@mainly.ai
+##################################################
 """
 
 # os
