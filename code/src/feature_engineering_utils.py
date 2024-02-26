@@ -1,4 +1,13 @@
-# os
+"""
+##################################################
+## Script for estimating individual risk-scores. Required for Table-1
+##################################################
+# Author: Shahrukh Iqbal
+# Email: iqbal@mainly.ai
+##################################################
+"""
+
+
 import sys
 sys.path.append("../")
 from pathlib import Path
