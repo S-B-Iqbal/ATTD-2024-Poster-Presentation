@@ -17,3 +17,9 @@
 - [TEDDY-Study](https://repository.niddk.nih.gov/studies/teddy/?query=type%201%20diabetes)
 - [Config-files](https://github.com/S-B-Iqbal/ATTD-2024-Poster-Presentation/blob/main/code/src/conf/config.yaml) contains the list of utilized datasets
 - Data-dictionary is available under "Study Documents"
+
+## Code
+
+- `create_processed_df.py` estimates the relevant risk scores for each individual under the column `SCORE_<AB>_MEMORY` for each auto-antibody
+- `train_survival_models.py` trains the models
+
